@@ -1,0 +1,1 @@
+{"name":"Local: 1_new_Array","url":"e:\\Phitron\\Data Structure\\Module#3\\1_new_Array.cpp","tests":[{"id":1718096845044,"input":"Copy\n2\n1 2\n3 4","output":"3 4 1 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\Data Structure\\Module#3\\1_new_Array.cpp","group":"local","local":true}

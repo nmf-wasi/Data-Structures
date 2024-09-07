@@ -1,0 +1,11 @@
+memory address from fun_one = 0x61fef0
+20
+20
+memory address after fun_one = 0x61ff08
+memory address from fun_two = 0x61fef0
+20
+memory address after fun_two = 0x61ff08
+memory address from fun_three = 0x61ff08
+Pointer is NULL
+memory address from fun_three = 0x61ff08
+It is NULL because the address is NULL

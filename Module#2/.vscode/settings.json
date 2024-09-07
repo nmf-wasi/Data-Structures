@@ -1,0 +1,20 @@
+{
+	"files.associations": {
+		"ostream": "cpp",
+		"array": "cpp",
+		"string_view": "cpp",
+		"scoped_allocator": "cpp",
+		"bitset": "cpp",
+		"initializer_list": "cpp",
+		"regex": "cpp",
+		"utility": "cpp",
+		"valarray": "cpp",
+		"deque": "cpp",
+		"string": "cpp",
+		"vector": "cpp",
+		"*.tcc": "cpp",
+		"forward_list": "cpp",
+		"list": "cpp",
+		"variant": "cpp"
+	}
+}

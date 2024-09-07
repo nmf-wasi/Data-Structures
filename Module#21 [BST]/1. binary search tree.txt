@@ -1,0 +1,16 @@
+BST= Binary Tree + Binary Search
+usually, we need a sorted array inorder to apply binary search. But, in Binary Search Tree, we dont have to make it sort. Rather, we will just have values liek this:
+
+                        node->value
+            nore->left->value < node->value
+            nore->right->value > node->value
+            node->left->value !=node->value
+            node->right->value !=node->value
+            
+        This criteria is applied to whole left and right subtree
+        each of the nodes' values should be less than root's value on the left side and should me more than root's value on the right side
+        ! However, none of the node's values can be repeated
+        We will keep a frequency array to keep the count if we get multiple nodes with same value
+
+        //check images from videos
+    

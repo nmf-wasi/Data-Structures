@@ -1,0 +1,5 @@
+Ryu 4 78
+Chaer 1 89
+Lia 2 98
+Yeji 3 98
+Yuna 2 99

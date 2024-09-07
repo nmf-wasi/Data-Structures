@@ -1,0 +1,1 @@
+{"name":"Local: binary_search","url":"e:\\Phitron\\Data Structure\\Module#3\\binary_search.cpp","tests":[{"id":1718187992107,"input":"5\n1 5 4 3 2\n5","output":"Yes"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\Data Structure\\Module#3\\binary_search.cpp","group":"local","local":true}
